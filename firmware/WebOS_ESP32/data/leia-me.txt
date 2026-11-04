@@ -1,0 +1,9 @@
+Bem-vindo ao WebOS ESP32!
+
+Este arquivo está gravado no LittleFS, o sistema de arquivos na memória
+flash da placa. Edite, salve e reinicie a placa: o conteúdo continua aqui.
+
+Experimente no Terminal:
+  ls
+  cat /leia-me.txt
+  df
