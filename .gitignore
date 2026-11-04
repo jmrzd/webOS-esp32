@@ -1,0 +1,9 @@
+node_modules/
+frontend/dist/
+firmware/build/
+tools/arduino-cli/
+*.log
+.DS_Store
+Thumbs.db
+tools/esptool/
+frontend/tsconfig.tsbuildinfo
